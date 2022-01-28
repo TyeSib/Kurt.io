@@ -1,0 +1,24 @@
+body {
+  background-color: #3b3f46;
+}
+h6 {
+  color: yellow;
+}
+a {
+  text-align: center;
+}
+.top-image {
+  height: 350px;
+}
+.index-image {
+  height: 250px;
+}
+.album {
+  height: 50px;
+}
+img {
+  transition: all 0.2s ease-in-out;
+}
+img:hover {
+  transform: scale(1.5);
+}
